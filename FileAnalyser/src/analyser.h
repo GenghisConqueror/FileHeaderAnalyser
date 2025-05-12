@@ -15,5 +15,5 @@ void parseELF(const std::string& filePath);
 void parsePE(const std::string& filePath);
 double calculateEntropy(const std::vector<uint8_t>& data);
 
-#endif // ANALYZER_H
+#endif 
 
